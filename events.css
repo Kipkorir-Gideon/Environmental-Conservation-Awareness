@@ -1,3 +1,7 @@
+h2 {
+    text-align: center;
+}
+
 .event1 div, .event2 div{
     width: 300px;
     height: 400px;
@@ -9,4 +13,5 @@
 .event1, .event2 {
     display: flex;
     justify-content: space-between;
+    padding-bottom: 50px;
 }
