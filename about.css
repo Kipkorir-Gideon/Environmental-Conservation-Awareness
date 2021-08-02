@@ -1,0 +1,44 @@
+
+  #one{
+  float: left;
+  height: 200 px;
+  width: 300px;
+  margin: 0 10px 0 0;
+  }
+
+h1 {
+  font-size: 4em;
+  font-family: Georgia, sans-serif;
+  color: red;
+  text-shadow: 3px 1px black;
+  margin-bottom: 40px;
+}
+
+h4 {
+  margin: 0;
+  font-family: georgia, sans-serif;
+  font-size: 1.3em;
+}
+.content {
+  margin: 0 0 0 10px;
+  /*box-shadow: 0 0 20px 0px #888888;*/
+}
+
+}
+img {
+  max-height: 200px;
+}
+p {
+  margin-top: 5px;
+  font-size: 0.9em;
+  text-align: justify;
+  margin-bottom: 10px;
+
+
+}
+a {
+  font-weight: 900;
+}
+a:hover {
+  color: red;
+}
