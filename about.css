@@ -1,33 +1,62 @@
 
+/* this is the image id properties */
   #one{
   float: left;
-  height: 200 px;
-  width: 300px;
-  margin: 0 10px 0 0;
+  height: 700 px;
+  width: 400px;
+  margin: 30px 10px 30px 20px;
+  padding-left: 40px;
+  }
+  .SubTittles_of_about {
+    background-color: #DBF9FC;
+    display: flex;
+    padding: 30px;
+    justify-content: space-between;
+
+}
+
+.container h1 {
+  font-size: 4em;
+  text-align: left;
+
+}
+
+  .missionVision{
+
+      padding: 0 2px;
+      Background-Color: #e1e3e1 ;
   }
 
-h1 {
-  font-size: 4em;
-  font-family: Georgia, sans-serif;
-  color: red;
-  text-shadow: 3px 1px black;
-  margin-bottom: 40px;
-}
 
-h4 {
-  margin: 0;
-  font-family: georgia, sans-serif;
-  font-size: 1.3em;
-}
-.content {
-  margin: 0 0 0 10px;
-  /*box-shadow: 0 0 20px 0px #888888;*/
-}
+  .missionVisionpackage{
+    padding: 15px;
+    text-align: center;
+  }
+  .boxes1{
+    width: auto;
+    display: flex;
+    justify-content: center;
+  }
+  .boxes{
+    width: auto;
+    display: flex;
+    justify-content: center;
+  }
 
-}
-img {
-  max-height: 200px;
-}
+  .ho1{
+    box-sizing: border-box;
+    background-color: white;
+    height: 300;
+    width: 280px;
+    padding: 25px;
+    border-radius: 50px;
+    margin: 50px;
+    margin-bottom: 43px;
+    position: relative;
+    background-color: white;
+
+  }
+
 p {
   margin-top: 5px;
   font-size: 0.9em;
@@ -35,10 +64,4 @@ p {
   margin-bottom: 10px;
 
 
-}
-a {
-  font-weight: 900;
-}
-a:hover {
-  color: red;
 }
