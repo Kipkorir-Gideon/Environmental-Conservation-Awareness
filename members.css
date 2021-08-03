@@ -1,0 +1,22 @@
+body {
+    /*background-image: url(images/environmental-protection-326923_1920.jpg);*/
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img {
+    border-radius: 50%;
+}
+
+.image1, .image3 {
+    float: left;
+}
+
+.image2, .image4 {
+    float: right;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+}
