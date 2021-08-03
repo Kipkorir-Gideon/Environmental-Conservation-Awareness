@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> about
 /* this is the image id properties */
   #one{
   float: left;
@@ -13,6 +16,7 @@
     display: flex;
     padding: 30px;
     justify-content: space-between;
+<<<<<<< HEAD
 
 }
 
@@ -20,6 +24,14 @@
   font-size: 4em;
   text-align: left;
 
+=======
+}
+
+.container h1 {
+  font-size: 4em;
+  text-align: left;
+
+>>>>>>> about
 
 
 h4{
@@ -32,9 +44,11 @@ h4{
   background-color: red;
   padding:30px;
   position:absolute;
+<<<<<<< HEAD
 
+=======
+>>>>>>> about
 
-}
 img {
 }
 p {
