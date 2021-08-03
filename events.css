@@ -6,10 +6,6 @@ html {
     background-attachment: fixed;
 }
 
-body {
-    
-}
-
 h2 {
     text-align: center;
 }
@@ -42,7 +38,13 @@ h2 {
 }
 
 .bottom-left {
-    position: absolute;
-    bottom: 8px;
-    left: 16px;
+    position: relative;
+    bottom: 5px;
+    left: 10px;
+}
+
+footer {
+    background-color: rgb(243, 189, 243);
+    height: auto;
+    padding-top: 20px;
 }
