@@ -83,3 +83,18 @@ h3{
   color: #FF00FF;
 
 }
+.Achivements{
+
+}
+.likeus{
+  weight: 200px;
+  text-align: center;
+  height: 120px;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 18px;
+}
+#imagee{
+  height: 90px;
+  width: 299px;
+}
