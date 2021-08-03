@@ -1,0 +1,50 @@
+html {
+    padding-left: 100px;
+    padding-right: 100px;
+    background-image: url(images/dreamstime_s_74844293.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h2 {
+    text-align: center;
+}
+
+.event1 div, .event2 div{
+    width: 320px;
+    height: auto;
+    margin: 10px;
+    text-align: center;
+    background-color: rgb(179, 245, 238);
+    position: relative;
+}
+
+.event1, .event2 {
+    display: flex;
+    justify-content: space-between;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    margin: 50px auto 50px auto;
+    /*background: rgba(255, 255, 255, 0.9);*/
+    padding-bottom: 100px;
+}
+
+.register {
+    margin-bottom: 100px;
+    background-color: silver;
+    text-decoration: none;
+    border-radius: 50px 50px 50px 50px;
+    margin-top: 500px;
+}
+
+.bottom-left {
+    position: relative;
+    bottom: 5px;
+    left: 10px;
+}
+
+footer {
+    background-color: rgb(243, 189, 243);
+    height: auto;
+    padding-top: 20px;
+}
