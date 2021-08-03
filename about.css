@@ -3,6 +3,7 @@
 body{
   width: 88%;
   padding-left: 30px;
+  background-color: #E5E4E2;
 }
 
   #one{
@@ -20,11 +21,16 @@ body{
     justify-content: space-between;
 
 }
+.container{
+
+  background-image: url("./images/leaf.jpeg");
+
+}
 
 .container h1 {
   font-size: 4em;
   text-align: left;
-
+  background-color: #CECECE;
 }
 
 
@@ -81,9 +87,11 @@ h3{
   font-size: 50px;
   font-family: fantasy;
   color: #FF00FF;
+  background-color: #4863A0;
 
 }
-.Achivements{
+.Achivements p{
+  margin-left: 59px;
 
 }
 .likeus{
