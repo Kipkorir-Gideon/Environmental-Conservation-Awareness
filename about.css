@@ -87,14 +87,12 @@ h3{
 
 }
 .likeus{
-  weight: 200px;
+  margin-left: 410px;
+  width: 40%;
   text-align: center;
-  height: 120px;
+  height: 90px;
   display: flex;
   justify-content: space-around;
   padding-top: 18px;
-}
-#imagee{
-  height: 90px;
-  width: 299px;
+  background-color: #808000;
 }
