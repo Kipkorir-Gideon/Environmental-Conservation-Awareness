@@ -32,11 +32,6 @@
     padding: 15px;
     text-align: center;
   }
-  .boxes1{
-    width: auto;
-    display: flex;
-    justify-content: center;
-  }
   .boxes{
     width: auto;
     display: flex;
