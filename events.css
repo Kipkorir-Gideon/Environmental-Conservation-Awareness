@@ -1,6 +1,10 @@
 html {
     padding-left: 100px;
     padding-right: 100px;
+    background-image: url(images/dreamstime_s_74844293.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 h2 {
@@ -12,6 +16,7 @@ h2 {
     height: auto;
     margin: 10px;
     text-align: left;
+    position: relative;
 }
 
 .event1, .event2 {
@@ -27,4 +32,10 @@ h2 {
     text-decoration: none;
     border-radius: 50px 50px 50px 50px;
     margin-top: 500px;
+}
+
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
 }
