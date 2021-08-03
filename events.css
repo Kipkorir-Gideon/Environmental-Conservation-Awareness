@@ -2,9 +2,12 @@ html {
     padding-left: 100px;
     padding-right: 100px;
     background-image: url(images/dreamstime_s_74844293.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
     background-size: cover;
+    background-attachment: fixed;
+}
+
+body {
+    
 }
 
 h2 {
@@ -16,6 +19,7 @@ h2 {
     height: auto;
     margin: 10px;
     text-align: left;
+    background-color: rgb(179, 245, 238);
     position: relative;
 }
 
@@ -24,6 +28,8 @@ h2 {
     justify-content: space-between;
     overflow-x: scroll;
     overflow-y: hidden;
+    margin: 50px auto 50px auto;
+    background: rgba(255, 255, 255, 0.9);
 }
 
 .register {
