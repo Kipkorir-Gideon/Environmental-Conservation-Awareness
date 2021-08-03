@@ -7,6 +7,7 @@
   margin: 30px 10px 30px 20px;
   padding-left: 40px;
   }
+
   .SubTittles_of_about {
     background-color: #DBF9FC;
     display: flex;
@@ -20,6 +21,10 @@
   text-align: left;
 
 }
+
+
+
+            /* Mission AND Vision  */
 
   .missionVision{
 
@@ -41,8 +46,8 @@
   .ho1{
     box-sizing: border-box;
     background-color: white;
-    height: 300;
-    width: 280px;
+    height: 460px;
+    width: 450px;
     padding: 25px;
     border-radius: 50px;
     margin: 50px;
