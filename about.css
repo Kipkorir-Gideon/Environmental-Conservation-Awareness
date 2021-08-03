@@ -46,7 +46,7 @@
   .ho1{
     box-sizing: border-box;
     background-color: white;
-    height: 600px;
+    height: auto;
     width: 450px;
     padding: 25px;
     border-radius: 50px;
