@@ -46,14 +46,14 @@
   .ho1{
     box-sizing: border-box;
     background-color: white;
-    height: 460px;
+    height: 600px;
     width: 450px;
     padding: 25px;
     border-radius: 50px;
     margin: 50px;
     margin-bottom: 43px;
     position: relative;
-    background-color: white;
+    background-color: green;
 
   }
 
