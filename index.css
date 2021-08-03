@@ -1,0 +1,14 @@
+.image-text {
+    position: absolute;
+    top: 340px;
+    left: 0;
+    color: rgb(107, 19, 19);
+}
+
+.text-over {
+    position: relative;
+}
+
+.sections {
+    max-width: 800px;
+}
