@@ -11,8 +11,8 @@
 * CSS
 * Git
 * Github
-## live 
-View [live](https://feddykip.github.io/Environmental-conservation-Awareness/)
+## live link
+Click [Here](https://feddykip.github.io/Environmental-conservation-Awareness/)
 
 
 
