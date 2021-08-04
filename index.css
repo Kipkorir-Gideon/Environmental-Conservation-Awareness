@@ -52,3 +52,10 @@ main {
     padding: 5px;
     margin: 10px;
 }
+
+a {
+    text-decoration: none;
+}
+.news > div > a {
+    color: white;
+}
