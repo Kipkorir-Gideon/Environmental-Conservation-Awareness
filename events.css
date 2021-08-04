@@ -27,14 +27,21 @@ h2 {
     margin: 50px auto 50px auto;
     /*background: rgba(255, 255, 255, 0.9);*/
     padding-bottom: 100px;
+    margin-top: 50px;
 }
 
 .register {
-    margin-bottom: 100px;
-    background-color: silver;
+    background-color: rgb(22, 107, 96);
     text-decoration: none;
-    border-radius: 50px 50px 50px 50px;
-    margin-top: 500px;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    border-style: solid;
+    width: 200px;
+}
+
+.register a {
+    color: white;
+    text-decoration: none;
 }
 
 .bottom-left {
