@@ -12,7 +12,7 @@
 * Git
 * Github
 ## live 
-Check the link [here] (https://feddykip.github.io/Environmental-conservation-Awareness/)
+View [live](https://feddykip.github.io/Environmental-conservation-Awareness/)
 
 
 
