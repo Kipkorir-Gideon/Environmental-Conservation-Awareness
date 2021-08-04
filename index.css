@@ -31,7 +31,12 @@ header img{
     position: absolute;
     top: 340px;
     left: 0;
-    color: rgb(107, 19, 19);
+    color: rgb(7, 43, 14);
+}
+
+body {
+    font-size: 20px;
+    font-family: sans-serif;
 }
 .mid {
     display: flex;
@@ -62,5 +67,52 @@ header img{
 }
 
 .sections {
+<<<<<<< HEAD
+    max-width: 700px;
+    background-color: rgb(209, 250, 246);
+    align-items: center;
+    padding: 50px;
+    padding-top: 5px;
+    text-align: center;
+    height: auto;
+}
+
+.sections > div {
+    margin: 5px;
+    align-items: center;
+    background-color: white;
+}
+
+main {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    overflow: auto;
+}
+
+.news {
+    float: right;
+    background-color: rgb(253, 220, 253); 
+    align-items: center;
+    text-align: center;
+    padding: 50px;
+    padding-top: 5px;
+    height: auto;
+}
+
+.news >div {
+    background-color: rgb(77, 218, 218);
+    padding: 5px;
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+.news > div > a {
+    color: white;
+}
+=======
     max-width: 800px;
 }
+>>>>>>> b5ff6dc14eacbb16c7ec27e2fd94aa3c111a88f1
