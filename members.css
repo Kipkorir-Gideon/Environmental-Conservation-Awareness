@@ -19,6 +19,14 @@ img {
     float: right;
 }
 
+h3 {
+    text-align: center;
+}
+
+p {
+    max-width: 600px;
+}
+
 main {
     display: flex;
     flex-direction: column;
