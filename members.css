@@ -50,3 +50,7 @@ header {
     padding-top: 18px;
     background-color: #808000;
   }
+
+  .biography {
+      background-color: rgb(176, 245, 222);
+  }
