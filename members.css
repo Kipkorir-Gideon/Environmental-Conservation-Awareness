@@ -93,3 +93,18 @@ header {
       padding-left: 50px;
       padding-right: 50px;
   }
+  .biography1>p {
+      padding-left: 200px;
+  }
+
+.biography2>p {
+    padding-left: 200px;
+}
+
+.biography3>p {
+    padding-left: 200px;
+}
+
+.biography4>p {
+    padding-left: 200px;
+}
