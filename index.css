@@ -1,3 +1,8 @@
+
+
+
+
+
 .image-text {
     position: absolute;
     top: 340px;
@@ -15,6 +20,7 @@ body {
 }
 
 .sections {
+<<<<<<< HEAD
     max-width: 700px;
     background-color: rgb(209, 250, 246);
     align-items: center;
@@ -59,3 +65,7 @@ a {
 .news > div > a {
     color: white;
 }
+=======
+    max-width: 800px;
+}
+>>>>>>> b5ff6dc14eacbb16c7ec27e2fd94aa3c111a88f1
