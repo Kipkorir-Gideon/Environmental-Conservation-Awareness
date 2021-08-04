@@ -1,21 +1,29 @@
-header{
-    padding: 40px;
+/* header{
+    padding: 20px;
     margin-bottom: 35px;
     background-image: url("https://cdn.pixabay.com/photo/2014/04/17/23/26/environmental-protection-326923__480.jpg");
     background-color: #cccccc;
     background-repeat: repeat;
+} */
+header {
+    background-color: darkolivegreen;
+    height: 200px;
 }
+
 .topnav{
     text-align: right;
-    margin-top: -50px;
+    margin-top: 20px;
+    padding-top: 20px;
 }
+
 .topnav a{
     padding: 15px;
     text-align: right;
-    border: 1px solid white;
-    background-color: white;
-    color: #6CB840;
+    color: black;
     font-size: 20px;
+    text-decoration: none;
+    padding-top: 20px;
+}
 }
 h1{
     text-align: center;
