@@ -6,6 +6,9 @@ body {
 
 img {
     border-radius: 50px 50px 50px 50px;
+    border-style: solid;
+    border-color: rgb(140, 125, 240);
+    border-width: 1px;
 }
 
 .image1, .image3 {
