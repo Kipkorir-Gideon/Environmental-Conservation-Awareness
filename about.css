@@ -18,8 +18,9 @@ body{
   .SubTittles_of_about {
     background-color: #ADD8E6;
     display: flex;
-    padding: 30px;
+    padding: 0px;
     justify-content: space-between;
+    width: 100%;
 
 }
 .container{
@@ -31,7 +32,6 @@ body{
 .container h1 {
   font-size: 4em;
   text-align: left;
-  background-color: #CECECE;
 }
 
 
@@ -65,7 +65,7 @@ body{
     margin: 50px;
     margin-bottom: 43px;
     position: relative;
-    background-color: green;
+    background-color: #6AFB92;
 
   }
 
@@ -99,7 +99,7 @@ h3{
 .Achivements p{
   margin-left: 59px;
   width: 100%;
-  height: auto;
+  height: auto;s
 
 }
 .corevalues{
