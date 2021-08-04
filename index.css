@@ -1,45 +1,21 @@
-header{
-background-image: url("https://cdn.pixabay.com/photo/2018/08/12/15/29/hintersee-3601004__340.jpg");
-background-size: auto;
-background-repeat: repeat;
-margin: 20px;
-}
-
 header {
     background-color: darkolivegreen;
     height: 200px;
 }
 
 .topnav{
-<<<<<<< HEAD
-text-align: right;
-margin-top: 2px;
-
-=======
     text-align: right;
     margin-top: 20px;
     padding-top: 20px;
->>>>>>> 62ddd9eccd359527416c41272ad2a336e822d614
 }
 
 .topnav a{
-<<<<<<< HEAD
-padding: 15px;
-text-align: right;
-color: white;
-font-size: 20px;
-text-decoration: none;
-}
-header img{
-margin-top: 10px;
-=======
     padding: 15px;
     text-align: right;
     color: black;
     font-size: 20px;
     text-decoration: none;
     padding-top: 20px;
->>>>>>> 62ddd9eccd359527416c41272ad2a336e822d614
 }
 
 .image-text {
@@ -146,4 +122,15 @@ a {
 }
     max-width: 800px;
 }
+
+.likeus{
+    margin-left: 10px;
+    width: 100%;
+    text-align: center;
+    height: 90px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 18px;
+    background-color: #808000;
+  }
 

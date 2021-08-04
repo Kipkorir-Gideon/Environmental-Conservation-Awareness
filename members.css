@@ -40,3 +40,13 @@ header {
     text-decoration: none;
     padding-top: 20px;
 }
+.likeus{
+    margin-left: 10px;
+    width: 100%;
+    text-align: center;
+    height: 90px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 18px;
+    background-color: #808000;
+  }
