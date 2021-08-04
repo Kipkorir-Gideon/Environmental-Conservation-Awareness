@@ -15,7 +15,7 @@
 Click [Here](https://feddykip.github.io/Environmental-conservation-Awareness/)
 
 ## licenses
-Click [Here] for MIT licenses (https://feddykip.github.io/Environmental-conservation-Awareness/)
+Click [Here](https://github.com/feddykip/Environmental-conservation-Awareness/blob/main/LICENSE) for MIT licenses
 
 
 
