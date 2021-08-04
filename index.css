@@ -50,4 +50,5 @@ main {
 .news >div {
     background-color: rgb(77, 218, 218);
     padding: 5px;
+    margin: 10px;
 }
