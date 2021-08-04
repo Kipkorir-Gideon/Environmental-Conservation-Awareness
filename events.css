@@ -1,6 +1,6 @@
 html {
-    padding-left: 100px;
-    padding-right: 100px;
+    /* padding-left: 100px;
+    padding-right: 100px; */
     background-image: url(images/dreamstime_s_74844293.jpg);
     background-size: cover;
     background-attachment: fixed;
@@ -37,6 +37,7 @@ h2 {
     color: rgb(255, 255, 255);
     border-style: solid;
     width: 200px;
+    border-width: 2px;
 }
 
 .register a {
@@ -67,12 +68,6 @@ header {
     color: black;
     font-size: 20px;
     text-decoration: none;
-    padding-top: 20px;
-}
-
-footer {
-    background-color: rgb(243, 189, 243);
-    height: auto;
     padding-top: 20px;
 }
 
