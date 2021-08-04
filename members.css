@@ -61,16 +61,24 @@ header {
   .biography1 {
       background-color: rgb(224, 195, 250);
       margin-bottom: 5px;
+      padding-left: 50px;
+      padding-right: 50px;
   }
   .biography2 {
       background-color: rgb(217, 249, 250);
       margin-bottom: 5px;
+      padding-left: 50px;
+      padding-right: 50px;
   }
   .biography3 {
       background-color: rgb(188, 188, 247);
       margin-bottom: 5px;
+      padding-left: 50px;
+      padding-right: 50px;
   }
   .biography4 {
       background-color: rgb(250, 195, 195);
       margin-bottom: 5px;
+      padding-left: 50px;
+      padding-right: 50px;
   }
