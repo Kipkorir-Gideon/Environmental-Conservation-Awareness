@@ -52,10 +52,12 @@ header {
   }
 
   .biography {
-      background-color: rgb(29, 70, 32);
       text-align: start;
   }
   .biography > h2 {
       text-align: center;
       color: aquamarine;
+  }
+  .biography1 {
+      background-color: rgb(198, 148, 245);
   }
