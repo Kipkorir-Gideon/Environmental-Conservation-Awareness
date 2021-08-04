@@ -59,14 +59,18 @@ header {
       color: aquamarine;
   }
   .biography1 {
-      background-color: rgb(198, 148, 245);
+      background-color: rgb(224, 195, 250);
+      margin-bottom: 5px;
   }
   .biography2 {
-      background-color: cadetblue;
+      background-color: rgb(217, 249, 250);
+      margin-bottom: 5px;
   }
   .biography3 {
-      background-color: darkblue;
+      background-color: rgb(188, 188, 247);
+      margin-bottom: 5px;
   }
   .biography4 {
-      background-color: darkred;
+      background-color: rgb(250, 195, 195);
+      margin-bottom: 5px;
   }
