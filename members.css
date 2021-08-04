@@ -5,7 +5,10 @@ body {
 }
 
 img {
-    border-radius: 50%;
+    border-radius: 50px 50px 50px 50px;
+    border-style: solid;
+    border-color: rgb(140, 125, 240);
+    border-width: 1px;
 }
 
 .image1, .image3 {
@@ -16,9 +19,18 @@ img {
     float: right;
 }
 
+h3 {
+    text-align: center;
+}
+
+p {
+    max-width: 600px;
+}
+
 main {
     display: flex;
     flex-direction: column;
+    /* background-color: rgb(155, 155, 241); */
 }
 
 header {
@@ -50,3 +62,51 @@ header {
     padding-top: 18px;
     background-color: #808000;
   }
+
+  .biography {
+      text-align: start;
+  }
+  .biography > h2 {
+      text-align: center;
+      color: rgb(57, 136, 110);
+      /* background-color: blue; */
+  }
+  .biography1 {
+      background-color: rgb(224, 195, 250);
+      margin-bottom: 5px;
+      padding-left: 50px;
+      padding-right: 50px;
+  }
+  .biography2 {
+      background-color: rgb(217, 249, 250);
+      margin-bottom: 5px;
+      padding-left: 50px;
+      padding-right: 50px;
+  }
+  .biography3 {
+      background-color: rgb(188, 188, 247);
+      margin-bottom: 5px;
+      padding-left: 50px;
+      padding-right: 50px;
+  }
+  .biography4 {
+      background-color: rgb(250, 195, 195);
+      margin-bottom: 5px;
+      padding-left: 50px;
+      padding-right: 50px;
+  }
+  .biography1>p {
+      padding-left: 200px;
+  }
+
+.biography2>p {
+    padding-left: 200px;
+}
+
+.biography3>p {
+    padding-left: 200px;
+}
+
+.biography4>p {
+    padding-left: 200px;
+}
