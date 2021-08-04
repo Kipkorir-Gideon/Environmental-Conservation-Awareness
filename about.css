@@ -1,5 +1,12 @@
 
 /* this is the image id properties */
+body{
+  width: 88%;
+  padding-left: 30px;
+  background-color: #F0FFF0;
+  /* background-image: url("./images/poster,504x498,f8f8f8-pad,600x600,f8f8f8.jpg"); */
+}
+
   #one{
   float: left;
   height: 700 px;
@@ -7,19 +14,29 @@
   margin: 30px 10px 30px 20px;
   padding-left: 40px;
   }
+
   .SubTittles_of_about {
-    background-color: #DBF9FC;
+    background-color: #ADD8E6;
     display: flex;
     padding: 30px;
     justify-content: space-between;
+
+}
+.container{
+
+  background-image: url("./images/leaf.jpeg");
 
 }
 
 .container h1 {
   font-size: 4em;
   text-align: left;
-
+  background-color: #CECECE;
 }
+
+
+
+            /* Mission AND Vision  */
 
   .missionVision{
 
@@ -32,11 +49,6 @@
     padding: 15px;
     text-align: center;
   }
-  .boxes1{
-    width: auto;
-    display: flex;
-    justify-content: center;
-  }
   .boxes{
     width: auto;
     display: flex;
@@ -46,22 +58,61 @@
   .ho1{
     box-sizing: border-box;
     background-color: white;
-    height: 300;
-    width: 280px;
+    height: auto;
+    width: 450px;
     padding: 25px;
     border-radius: 50px;
     margin: 50px;
     margin-bottom: 43px;
     position: relative;
-    background-color: white;
+    background-color: green;
 
   }
 
-p {
+.ho1 p {
   margin-top: 5px;
   font-size: 0.9em;
-  text-align: justify;
+  text-align: center;
   margin-bottom: 10px;
+  color: white;
 
 
+}
+h4{
+  font-size: 33px;
+  text-align: center;
+  color: #FFFF00;
+}
+h3{
+  text-emphasis: bold;
+  font-size: 50px;
+  font-family: fantasy;
+  color: #FF00FF;
+  background-color: #4863A0;
+
+}
+.Achivements{
+
+  background-image: url("./images/s1.jpg");
+}
+
+.Achivements p{
+  margin-left: 59px;
+  width: 100%;
+  height: auto;
+
+}
+.corevalues{
+ width: 90%;
+  background-image: url("./images/WhatsApp Image 2021-08-03 at 3.28.15 PM (4).jpeg");
+}
+.likeus{
+  margin-left: 410px;
+  width: 40%;
+  text-align: center;
+  height: 90px;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 18px;
+  background-color: #808000;
 }
