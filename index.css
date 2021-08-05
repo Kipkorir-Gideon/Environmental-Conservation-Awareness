@@ -121,15 +121,34 @@ a {
     color: white;
 }
 
-.likeus{
-    width: 100%;
-    text-align: center;
-    height: 90px;
+#words{
+    margin: 20px;
+    padding: 30px;
+}
+#words a{
     display: flex;
-    justify-content: space-around;
-    padding-top: 18px;
-    background-color: #808000;
-  }
+    flex-direction: column;
+    text-decoration: none;
+    padding: 7px;
+    color: white;
+    padding-right: 200px;
+}
+footer{
+    background-color: rgb(252, 177, 150);
+    display: flex;
+}
+#social{
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    padding: 7px;
+    color: white;
+    padding-top: 50px;
+}
+#social h4{
+    color: black;
+    
+}
 
   .news>.eform {
       background-color: rgb(238, 190, 190);
