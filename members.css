@@ -69,6 +69,7 @@ header {
   .biography > h2 {
       text-align: center;
       color: rgb(57, 136, 110);
+      font-size: 2em;
       /* background-color: blue; */
   }
   .biography1 {
