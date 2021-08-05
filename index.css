@@ -131,3 +131,26 @@ a {
     background-color: #808000;
   }
 
+  .news>.eform {
+      background-color: rgb(238, 190, 190);
+      padding-bottom: 40px;
+      border-radius: 50px 50px 50px 50px;
+      text-align: left;
+  }
+
+  .eform>h3 {
+      color: rgb(94, 129, 24);
+  }
+
+  .input1 {
+      border-radius: 50px 50px 50px 50px;
+      padding: 8px;
+      border-style: none;
+  }
+
+  .input2 {
+      padding: 8px;
+      background-color: yellowgreen;
+      border-style: none;
+  }
+
