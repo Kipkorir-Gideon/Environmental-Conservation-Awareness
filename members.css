@@ -41,7 +41,7 @@ header {
 
 .topnav{
     text-align: right;
-    margin-top: 20px;
+    margin-top: -10px;
     padding-top: 20px;
 }
 
@@ -54,7 +54,6 @@ header {
     padding-top: 20px;
 }
 .likeus{
-    margin-left: 10px;
     width: 100%;
     text-align: center;
     height: 90px;
@@ -111,4 +110,19 @@ header {
 
 .biography4>p {
     padding-left: 200px;
+}
+
+.apply {
+    text-align: center;
+    background-color: rgb(82, 121, 43);
+    align-items: center;
+    padding-bottom: 30px;
+}
+
+.apply a {
+    text-decoration: none;
+    background-color: white;
+    padding: 10px;
+    border-radius: 50px 50px 50px 50px;
+    color: teal;
 }

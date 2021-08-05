@@ -5,7 +5,7 @@ header {
 
 .topnav{
     text-align: right;
-    margin-top: 20px;
+    margin-top: -10px;
     padding-top: 20px;
 }
 
@@ -122,7 +122,6 @@ a {
 }
 
 .likeus{
-    margin-left: 10px;
     width: 100%;
     text-align: center;
     height: 90px;
@@ -130,5 +129,30 @@ a {
     justify-content: space-around;
     padding-top: 18px;
     background-color: #808000;
+  }
+
+  .news>.eform {
+      background-color: rgb(238, 190, 190);
+      padding-bottom: 40px;
+      border-radius: 50px 50px 50px 50px;
+      text-align: left;
+  }
+
+  .eform>h3 {
+      color: rgb(94, 129, 24);
+  }
+
+  .input1 {
+      border-radius: 50px 50px 50px 50px;
+      padding: 8px;
+      border-style: none;
+  }
+
+  .input2 {
+      padding: 8px;
+      background-color: rgb(78, 110, 13);
+      border-style: none;
+      color: rgb(145, 238, 229);
+      border-radius: 10%;
   }
 
